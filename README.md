@@ -1,3 +1,3 @@
 # thetestproject
-I like kumqauts and trains
-fresh new quats
+I like kumqauts and trains.
+Fresh new quats.
